@@ -1,0 +1,20 @@
+{
+  "relu": {
+    "status": "solved",
+    "solved_at": "2026-06-13T20:20:42.511953",
+    "best_time": 0.11962490000587422,
+    "attempts": 1
+  },
+  "softmax": {
+    "status": "solved",
+    "solved_at": "2026-06-13T20:56:53.743132",
+    "best_time": 0.010931900003924966,
+    "attempts": 1
+  },
+  "linear": {
+    "status": "solved",
+    "solved_at": "2026-06-14T00:12:27.070841",
+    "best_time": 0.011788799994974397,
+    "attempts": 1
+  }
+}
